@@ -1,0 +1,6 @@
+[submodule "SDI-NodeJS"]
+	path = SDI-NodeJS
+	url = https://github.com/jaluma/SDI-NodeJS
+[submodule "SDI-SpringBoot"]
+	path = SDI-SpringBoot
+	url = https://github.com/jaluma/SDI-SpringBoot

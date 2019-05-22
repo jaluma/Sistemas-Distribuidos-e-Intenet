@@ -4,3 +4,30 @@
 [submodule "SDI-SpringBoot"]
 	path = SDI-SpringBoot
 	url = https://github.com/jaluma/SDI-SpringBoot
+[submodule "Laboratorio/sdi211-lab-node"]
+	path = Laboratorio/sdi211-lab-node
+	url = https://github.com/jaluma/sdi211-lab-node
+[submodule "Laboratorio/NodeJS/sdi211-lab-soap-sw"]
+	path = Laboratorio/NodeJS/sdi211-lab-soap-sw
+	url = https://github.com/jaluma/sdi211-lab-soap-sw
+[submodule "Laboratorio/NodeJS/sdi211-lab-swjava"]
+	path = Laboratorio/NodeJS/sdi211-lab-swjava
+	url = https://github.com/jaluma/sdi211-lab-swjava
+[submodule "Laboratorio/NodeJS/sdi211-lab-soap-cliente"]
+	path = Laboratorio/NodeJS/sdi211-lab-soap-cliente
+	url = https://github.com/jaluma/sdi211-lab-soap-cliente
+[submodule "Laboratorio/SpringBoot/sdi211-lab-spring"]
+	path = Laboratorio/SpringBoot/sdi211-lab-spring
+	url = https://github.com/jaluma/sdi211-lab-spring
+[submodule "Laboratorio/NodeJS/sdi211-lab-node"]
+	path = Laboratorio/NodeJS/sdi211-lab-node
+	url = https://github.com/jaluma/sdi211-lab-node
+[submodule "Laboratorio/SpringBoot/--force"]
+	path = Laboratorio/SpringBoot/--force
+	url = https://github.com/jaluma/sdi211-lab-spring
+[submodule "Laboratorio/NodeJS/--force"]
+	path = Laboratorio/NodeJS/--force
+	url = https://github.com/jaluma/sdi211-lab-node
+[submodule "Laboratorio/SpringBoot/sdi211-lab-soap-cliente"]
+	path = Laboratorio/SpringBoot/sdi211-lab-soap-cliente
+	url = https://github.com/jaluma/sdi211-lab-soap-cliente

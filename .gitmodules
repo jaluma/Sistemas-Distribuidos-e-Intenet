@@ -31,3 +31,6 @@
 [submodule "Laboratorio/SpringBoot/sdi211-lab-soap-cliente"]
 	path = Laboratorio/SpringBoot/sdi211-lab-soap-cliente
 	url = https://github.com/jaluma/sdi211-lab-soap-cliente
+[submodule "Laboratorio/JEE/sdi211-lab-jee"]
+	path = Laboratorio/JEE/sdi211-lab-jee
+	url = https://github.com/jaluma/sdi211-lab-jee
